@@ -1,0 +1,27 @@
+@relation WEB_ELEMENTS
+
+
+@attribute curtop numeric
+@attribute curleft numeric
+@attribute childElementCount numeric
+@attribute clientHeight numeric
+@attribute clientWidth numeric
+@attribute nodeType numeric
+@attribute required numeric
+@attribute readOnly numeric
+@attribute unique numeric
+
+@data
+223,37,0,39,450,1,1,0,0000
+314,37,0,39,450,1,1,0,0001
+405,37,0,39,450,1,1,0,0010
+496,37,0,39,450,1,1,0,0011
+587,37,0,39,208,1,0,0,0100
+587,279,0,39,208,1,0,0,0101
+315,521,0,39,450,1,0,0,0110
+406,521,0,39,450,1,0,1,0111
+497,521,0,39,450,1,0,1,1000
+588,521,0,39,208,1,0,1,1001
+588,763,0,39,208,1,0,1,1010
+652,41,0,13,13,1,0,0,1011
+690,37,0,44,936,1,0,0,1100
